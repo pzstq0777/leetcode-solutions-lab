@@ -26,5 +26,7 @@ Primarily Python, with occasional JavaScript solutions.
 
 MIT
 
+# TODO: add more error handling
+# TODO: consider async version
 
 # Reformatted
