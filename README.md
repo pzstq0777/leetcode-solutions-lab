@@ -31,3 +31,6 @@ MIT
 
 # Reformatted
 <!-- commit 20260929001700 -->
+## Notes
+
+- Run `pip install -r requirements.txt` before first use.
