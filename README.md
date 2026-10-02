@@ -1,3 +1,4 @@
+# Type hints added for clarity
 # leetcode-solutions
 
 Solutions to selected LeetCode problems, organized by topic.
